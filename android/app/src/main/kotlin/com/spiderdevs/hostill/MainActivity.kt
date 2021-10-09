@@ -1,4 +1,4 @@
-package com.example.hostill
+package com.spiderdevs.hostill
 
 import io.flutter.embedding.android.FlutterActivity
 

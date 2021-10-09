@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hostill">
+    package="com.spiderdevs.hostill">
    <application
-        android:label="hostill"
+        android:label="Hostill"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
